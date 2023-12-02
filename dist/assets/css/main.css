@@ -919,9 +919,6 @@ h4 {
   opacity: 0;
   transition: all 0.3s ease-out;
   overflow: hidden;
-  /* display: none; */
-  /* margin-top: 1rem; */
-  /* padding: 3rem 4rem; */
 }
 .often-questions .accordion-block.active-content {
   overflow: visible;
